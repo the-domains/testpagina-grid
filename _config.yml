@@ -1,0 +1,28 @@
+name: testpagina grid
+favicon: null
+layout_spectrum: 0.6210223643574864
+typography_spectrum: 0.15272560785524547
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8065725674387068
+  lightness: 0.3968983262311667
+  saturation: 0.2633133898489177
+  rhythmicContrast: 0.5103166336193681
+purpose: []
